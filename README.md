@@ -11,3 +11,6 @@ Then open [this](https://github.com/gvoze32/DicodingSkipper/raw/main/dicodingski
 
 ### Affected Sites
 * Dicoding.com
+
+### Disclaimer
+DicodingSkipper is developed with the intention of using this tool only for educational purpose.
