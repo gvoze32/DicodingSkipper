@@ -13,4 +13,10 @@ Then open [this](https://github.com/gvoze32/DicodingSkipper/raw/main/dicodingski
 * Dicoding.com
 
 ### Disclaimer
-DicodingSkipper is developed with the intention of using this tool only for educational purpose.
+DicodingSkipper is developed with the intention of using this tool only for authorized testing and/or educational purpose.
+
+I take no responsibility for the abuse of DicodingSkipper or any information given in the related documents.
+
+I do not grant permissions to use DicodingSkipper to break the law.
+
+I disclaim any warranty for DicodingSkipper, it is provided "as is". You are free to copy, modify and reuse the source code at your own risk.
